@@ -17,8 +17,8 @@ public class main {
     }
         
     public void jorgeresta(){
-    
-    
+        System.out.println("Termine la resta");
+    lllll
     
     }
      
